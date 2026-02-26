@@ -1,6 +1,12 @@
 # Group 5 – Recipe Tracker & Meal Planner System
 ## Project mock Up 
 https://www.figma.com/make/HdItIJHavBLz9ZtOwReDFr/Food-Tracking-and-Recommendation-Site?t=qHGGrrXMfMJUUZby-1
+## FrontEndRepoLink
+https://github.com/Group5-Project2-RecipeTracker/FrontEndSection
+
+## BackEndRepoLink 
+https://github.com/Group5-Project2-RecipeTracker/BackEndSection
+
 ## Overview
 
 The Recipe Tracker & Meal Planner System is a full-stack web application designed to help users create recipes, manage ingredients, and organize weekly meal plans.
